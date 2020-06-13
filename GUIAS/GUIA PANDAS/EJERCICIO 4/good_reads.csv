@@ -1,0 +1,22 @@
+book_id,book_name,avg_rating
+A01,Fanny Hill: Memorias de una cortesana,9.7
+A02,Peregrine Pickle,8.3
+A03,Cándido o El optimismo,8.3
+A04,La historia de Rasselas príncipe de Abisinia,7.6
+A05,Julia o La nueva Eloísa, 8.4
+A06,Emilio o de la educación, 8.3
+A07,El castillo de Otranto,9.7
+A08,El vicario de Wakefield,9.6
+A09,Tristam Shandy,4.4
+A10,Viaje sentimental por Francia e Italia,5.7
+B01,The man of Feeling,7.4
+B02,Humphry Clinker,6.9
+B03,Las desventuras del joven Werther,9.7
+B04,Evelina,7.2
+B05,Las ensoñasiones del paseante solitario,8.3
+B06,Las amistades peligrosas,7.6
+B07,Las confesiones,8.5
+B08,Las ciento veinte jornadas de Sodoma,9.2
+B09,Anton Reiser,8.8
+B10,Vathek,9.0
+B11,Justine,8.5

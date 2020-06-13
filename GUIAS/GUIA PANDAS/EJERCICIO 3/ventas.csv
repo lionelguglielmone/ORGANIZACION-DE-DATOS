@@ -1,0 +1,16 @@
+codigo_producto,codigo_fabricante,mes,ventas_mensuales
+1234,123,enero,1500
+3581,101,febrero,31678
+9578,076,junio,11000
+6789,455,mayo,1350
+1534,144,diciembre,1000
+1234,076,marzo,999
+9578,455,marzo,855
+3581,455,marzo,934
+1234,076,febrero,123
+3581,123,febrero,231
+3581,076,mayo,222
+5567,123,mayo,222
+9578,455,mayo,1000
+6789,076,abril,100
+6789,455,abril,110
