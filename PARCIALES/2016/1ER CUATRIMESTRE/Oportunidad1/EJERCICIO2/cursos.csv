@@ -1,0 +1,34 @@
+codigo_de_materia,nombre_materia,codigo_curso,profesor
+1000,analisis matematico,2000,Alissa Bishop
+1000,analisis matematico,2001,Eden Page
+1000,analisis matematico,2002,Erik Callahan
+1001,algebra,2001,Brennen Mayo
+1001,algebra,2002,Grace Henderson
+1001,algebra,2003,Kierra Mayer
+1002,fisica,2002,Peter Ware
+1002,fisica,2003,Zion Estrada
+1002,fisica,2004,Warren Wise
+1003,quimica,2003,Gabrielle Pittman
+1003,quimica,2004,Bianca Boyer
+1003,quimica,2005,Ronin Warner
+1004,numerico,2004,Marcelo Pruitt
+1004,numerico,2005,Gordon Dennis
+1004,numerico,2006,Giana Holt
+1005,redes,2005,Amara Bowman
+1005,redes,2006,Hailee Conway
+1005,redes,2007,Jaquan Vasquez
+1006,algoritmos,2006,Tiffany Church
+1006,algoritmos,2007,Corey Estrada
+1006,algoritmos,2008,Antoine Cordova
+1007,discreta,2007,Libby Fowler
+1007,discreta,2008,Justice Weeks
+1007,discreta,2009,Victor Gregory
+1008,taller,2008,Juliet Haynes
+1008,taller,2009,Alejandra Novak
+1008,taller,2010,Deacon Bryant
+1009,datos,2009,Armani Lester
+1009,datos,2010,Mylie Stout
+1009,datos,2011,Eva Deleon
+1010,estructura,2010,Brylee Sharp
+1010,estructura,2011,Lena Mathis
+1010,estructura,2012,Madeleine Calderon
